@@ -1,0 +1,29 @@
+#navbar{
+
+ height: 80px;
+ display: flex;
+ background-color: bisque;
+ 
+}
+#search_input{
+        width: 900px;
+        height: 32px;
+        border-radius: 50px;
+        margin-left: 8rem;
+        margin-top: 1rem;
+}
+#navbar>a{
+    font-size: 30px;
+    margin-top: .5rem;
+    margin-left: 1rem;
+}
+#sidebar{
+    margin-top: -20px;
+    height: 800px;
+    width: 200px;
+    background-color: bisque;
+}
+#sidebar>h3{
+    background-color: teal;
+    width: 150px;
+}
